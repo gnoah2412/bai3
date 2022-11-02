@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<h1 align="center">Xin chào các bạn</h1>
+	<h2 align="center">Chào mừng đến với thế giới Wibu</h2>
+	<table width="100%">
+		<tr>
+			
+			<td width="30%" align="center">
+				<font color="red">
+					Tôi là <b>Yuu Otosaka</b>
+					<br>
+					<img src="https://i.pinimg.com/550x/a4/37/4b/a4374b514c726029410a43d26fe5eb89.jpg">
+					<br>
+					<h2>Tôi có sở thích là:</h2>
+					<table>
+						<tr align="center">
+							<td>
+								<ul>
+									<li>Linh</li>
+									<li>Trang</li>
+								</ul>
+							</td>	
+							<td>
+								<ul>
+									<li>Ly</li>
+									<li>Hậu</li>
+								</ul>
+							</td>
+							<td>
+								<ul>
+									<li>Thảo</li>
+									<li>Hà</li>
+								</ul>
+							</td>		
+						</tr>
+					</table>
+					<h2>Liên hệ với tôi</h2>
+					<table>
+						<tr align="center">
+							<td>
+								<ul>
+									<li>
+										<a href="https://www.facebook.com/ho.hoang2412/" target="_blank"><img src="https://cdn2.downdetector.com/static/uploads/logo/FB-f-Logo__blue_512.png" style="width:100px;height: 100px;" title="Logo Facebook"></a>
+									</li>
+								</ul>
+							</td>
+							<td>
+								<ul>
+									<li>
+										<a href="https://www.facebook.com/groups/j2team.community" target="_blank"><img src="https://media.sketchfab.com/models/77e06146e2a14643a0052e5423996691/thumbnails/0292c08429e74baf87e86ad55b228d67/d809d1c8c10f4c0c91519334052bbbd3.jpeg" style="width:100px; height: 100px;" title="Logo J2Team"></a>
+									</li>
+								</ul>
+							</td>
+						
+
+						</tr>
+					</table>
+				</font>
+			</td>
+			
+		</tr>
+	</table>
+</body>
+</html>
